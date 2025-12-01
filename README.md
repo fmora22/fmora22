@@ -28,7 +28,7 @@ Change the src below to match your file path (e.g., src="./profile-icon.png").
 
 👩‍💻 About Me
 
-I'm Fatima Garcia, a Data Science & Computer Science student from Chicago.
+I'm Fatima Mora-Garcia, a Data Science & Computer Science student from Chicago.
 
 🔭 Current Work: Working on edge computing and educational development with Argonne National Laboratory through Sage, a national programmable edge-computing and machine-learning infrastructure.
 
@@ -63,11 +63,3 @@ I'm Fatima Garcia, a Data Science & Computer Science student from Chicago.
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo" title="Linux"/>
 </div>
 
-🔥 My Stats
-
-<div align="center">
-<!-- GitHub Stats Card -->
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3Dfatimagarcia%26show_icons%3Dtrue%26theme%3Ddark%26hide_border%3Dtrue%26bg_color%3D0d1117" height="180" alt="stats graph" />
-<!-- Streak Stats -->
-<img src="https://www.google.com/search?q=https://streak-stats.demolab.com%3Fuser%3Dfatimagarcia%26locale%3Den%26mode%3Ddaily%26theme%3Ddark%26hide_border%3Dtrue%26border_radius%3D5%26order%3D3%26background%3D0d1117" height="180" alt="streak graph"/>
-</div>
