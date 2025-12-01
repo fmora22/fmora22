@@ -37,7 +37,7 @@ I'm Fatima Mora-Garcia, a Data Science & Computer Science student from Chicago.
 
 🌱 Exploring: Product management, security fundamentals, and data engineering.
 
-⚡ Fun Fact: In my free time I build community through LOGICA, organize Capture the Flame cybersecurity events, lift at the gym, and create creative coding projects in p5.js.
+⚡ Fun Fact: In my free time I build community through LOGICA, organize Capture the Flame cybersecurity events, lift at the gym, and walk my dog.
 
 🛠 Languages and Tools
 
