@@ -33,6 +33,7 @@ I'm Fatima Mora-Garcia, a Data Science & Computer Science student from Chicago.
 🔭 Current Work: Working on edge computing and educational development with Argonne National Laboratory through Sage, a national programmable edge-computing and machine-learning infrastructure.
 
 💼 Experience: I've interned in data analytics, IT, backend engineering, and ML research at companies like Amazon, AbbVie, ADM, and Google.
+
 📚 Learning: Currently diving deep into HPC, ML methods, and infrastructure for large-model systems.
 
 🌱 Exploring: Product management, security fundamentals, and data engineering.
