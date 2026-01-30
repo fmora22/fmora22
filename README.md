@@ -26,8 +26,6 @@ Change the src below to match your file path (e.g., src="./profile-icon.png").
 
 </div>
 
-👩‍💻 About Me
-
 I'm Fatima Mora-Garcia, a Data Science & Computer Science student from Chicago.
 
 🔭 Current Work: Working on edge computing and educational development with Argonne National Laboratory through Sage, a national programmable edge-computing and machine-learning infrastructure.
@@ -38,7 +36,7 @@ I'm Fatima Mora-Garcia, a Data Science & Computer Science student from Chicago.
 
 🌱 Exploring: Data Science, Product Management, Regulatory Controls, Analytics and Data Engineering.
 
-⚡ Fun Fact: In my free time I build community through LOGICA, organize Capture the Flame cybersecurity at UIC, listen to true-crime podcasts and walk my dog.
+👩‍💻 About Me: In my free time I build community through LOGICA, organize Capture the Flame cybersecurity at UIC, listen to true-crime podcasts and walk my dog.
 
 🛠 Languages and Tools
 
